@@ -10,9 +10,6 @@ gem 'bootstrap-will_paginate', '0.0.6'
 gem 'rake',  :require => false
 gem 'rspec', :require => false
 
-gem 'activerecord-mysql2-adapter'
-
-
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
